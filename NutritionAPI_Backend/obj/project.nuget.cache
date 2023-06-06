@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Hkl0ixwwwatElCzUWEm7fvsKOxczNCs5SvaLBHISU5b1Fd5yMvY3eHWiALR3vXmjvJGiy9lJ/1ggCu2gBfTWhg==",
+  "success": true,
+  "projectFilePath": "/Users/calebaddi/Documents/VSCode/C#/NutritionAPI_Backend/NutritionAPI_Backend.csproj",
+  "expectedPackageFiles": [
+    "/Users/calebaddi/.nuget/packages/restsharp/110.2.0/restsharp.110.2.0.nupkg.sha512",
+    "/Users/calebaddi/.nuget/packages/system.text.encodings.web/7.0.0/system.text.encodings.web.7.0.0.nupkg.sha512",
+    "/Users/calebaddi/.nuget/packages/system.text.json/7.0.2/system.text.json.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
